@@ -1,5 +1,5 @@
 # gradle-hello-world
-download gradle 7 \n
+download gradle 7
 download openjdk 1.7 on zulu
 unzip gradle into a directory called gradle
 unzip jdk 1.7 into a directory called Java
