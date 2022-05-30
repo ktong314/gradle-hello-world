@@ -7,6 +7,8 @@ open system properties, select advanced tab, and click on environment variables
 select path in system variables and edit   
 make a new path to the jdk bin and a another new path to the gradle bin  
 
+create a build.gradle file in the directory and configure the correct path
+
 open command line    
 cd to the GradleBuild project directory  
 type gradle build to build the Java project  
